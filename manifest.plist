@@ -36,7 +36,7 @@
 
                         <!-- required.  the URL of the file to download. -->
                         <key>url</key>
-                        <string>http://www.example.com/apps/foo.ipa</string>
+                        <string>https://ravi-coforge.github.io/NSW-EPA-Field-App/FieldApp - DEV.ipa</string>
                     </dict>
                 </array>
 
